@@ -45,15 +45,15 @@
  
  import (
   //青龙2.9
-  _ "github.com/cdle/sillyGirl/develop/qinglong"
+  _ "https://github.com/justsoso011/sillyGirl/develop/qinglong"
   //京东
-  _ "github.com/cdle/sillyGirl/develop/jd_cookie"
+  _ "https://github.com/justsoso011/sillyGirl/develop/jd_cookie"
   //qq机器人
-  _ "github.com/cdle/sillyGirl/im/qq"
+  _ "https://github.com/justsoso011/sillyGirl/im/qq"
   //tg机器人
-  _ "github.com/cdle/sillyGirl/im/tg"
+  _ "https://github.com/justsoso011/sillyGirl/im/tg"
   //微信公众号
-  _ "github.com/cdle/sillyGirl/im/wxmp"
+  _ "https://github.com/justsoso011/sillyGirl/im/wxmp"
  
  )
  
