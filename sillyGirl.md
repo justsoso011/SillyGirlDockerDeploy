@@ -35,7 +35,7 @@
 
 **前提条件：Git、Golang**
 
-1. 克隆主仓库： git clone https://github.com/cdle/sillyGirl
+1. 克隆主仓库： git clone https://github.com/justsoso011/sillyGirl
 2. 在 sillyGirl/develop 目录下运行：git clone https://github.com/ufuckee/jd_cookie
 3. 参考 [example_sets.conf](./conf/example_sets.conf) 设置 /etc/sillyGirl/sets.conf
 4. 在 sillyGirl 目录下新建文件 dev.go 内容如下
